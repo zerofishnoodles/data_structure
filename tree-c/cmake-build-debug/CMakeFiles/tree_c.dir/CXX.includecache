@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CS/learning/projects/tree-c/def.h
+cstdio
+-
+cstdlib
+-
+
+D:/CS/learning/projects/tree-c/function.h
+cstring
+D:/CS/learning/projects/tree-c/cstring
+def.h
+D:/CS/learning/projects/tree-c/def.h
+
+D:/CS/learning/projects/tree-c/main.cpp
+cstdio
+-
+cstdlib
+-
+function.h
+D:/CS/learning/projects/tree-c/function.h
+

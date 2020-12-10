@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CS/learning/projects/graph-c/def.h
+stdio.h
+D:/CS/learning/projects/graph-c/stdio.h
+stdlib.h
+D:/CS/learning/projects/graph-c/stdlib.h
+
+D:/CS/learning/projects/graph-c/function.h
+def.h
+D:/CS/learning/projects/graph-c/def.h
+cstring
+D:/CS/learning/projects/graph-c/cstring
+
+D:/CS/learning/projects/graph-c/main.cpp
+cstdio
+-
+cstdlib
+-
+function.h
+D:/CS/learning/projects/graph-c/function.h
+

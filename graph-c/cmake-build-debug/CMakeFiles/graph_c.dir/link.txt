@@ -1,0 +1,3 @@
+"D:\Programs\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\graph_c.dir/objects.a
+D:\Programs\mingw64\bin\ar.exe cr CMakeFiles\graph_c.dir/objects.a @CMakeFiles\graph_c.dir\objects1.rsp
+D:\Programs\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\graph_c.dir/objects.a -Wl,--no-whole-archive  -o graph_c.exe -Wl,--out-implib,libgraph_c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\graph_c.dir\linklibs.rsp
