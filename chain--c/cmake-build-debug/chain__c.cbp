@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="D:/CS/learning/projects/chain--c/cmake-build-debug"/>
+				<Option working_dir="D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="D:/CS/learning/projects/chain--c/cmake-build-debug"/>
+				<Option working_dir="D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="chain__c">
-				<Option output="D:/CS/learning/projects/chain--c/cmake-build-debug/chain__c.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/CS/learning/projects/chain--c/cmake-build-debug"/>
+				<Option output="D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug/chain__c.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -42,15 +42,15 @@
 					<Add directory="D:/Programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 chain__c"/>
-					<CompileFile command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 chain__c"/>
+					<CompileFile command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="chain__c/fast">
-				<Option output="D:/CS/learning/projects/chain--c/cmake-build-debug/chain__c.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/CS/learning/projects/chain--c/cmake-build-debug"/>
+				<Option output="D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug/chain__c.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -63,27 +63,27 @@
 					<Add directory="D:/Programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 chain__c/fast"/>
-					<CompileFile command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 chain__c/fast"/>
+					<CompileFile command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="D:/CS/learning/projects/chain--c/cmake-build-debug"/>
+				<Option working_dir="D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programs/mingw64/bin/mingw32-make.exe -f &quot;D:/CS/learning/projects/data_structure/chain--c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/CS/learning/projects/chain--c/main.cpp">
+		<Unit filename="D:/CS/learning/projects/data_structure/chain--c/main.cpp">
 			<Option target="chain__c"/>
 		</Unit>
-		<Unit filename="D:/CS/learning/projects/chain--c/CMakeLists.txt">
+		<Unit filename="D:/CS/learning/projects/data_structure/chain--c/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

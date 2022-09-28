@@ -1,9 +1,11 @@
-# data_structure
-### HUST 
-### data structure and algorithm experiment
+# Data Structure
+## Data structure and algorithm experiment
+
+
 the experiment comprises of 3 data structures:
 1. list
-2. tree
-3. graph  
+2. chain
+3. tree
+4. graph  
 
 In each of the structure, it realized some basic operation.
